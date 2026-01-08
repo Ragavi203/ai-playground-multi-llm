@@ -140,7 +140,7 @@ This skeleton is designed to be production-ready with:
 - Extensible database schema for prompts, runs, votes, tiers
 - Hooks for plugging in real LLM providers & pricing metadata
 
-You can extend it with:
+Future extension:
 
 - More providers / models
 - Experiment templates
